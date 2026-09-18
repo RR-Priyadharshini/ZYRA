@@ -1,0 +1,6 @@
+{
+  "name": "COMPLYX AI — Contract & Compliance Intelligence",
+  "description": "Autonomous contract compliance intelligence with multi-theme design system, obligation extraction, policy mapping, and evidence-backed risk analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
